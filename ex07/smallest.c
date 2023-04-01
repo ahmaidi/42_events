@@ -1,0 +1,1 @@
+main(int c,char**r){return c-3?:printf("%s %s\n",r[1],r[2]);}
